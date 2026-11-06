@@ -1,0 +1,14 @@
+# Nota: C-Order, 1 refers to the Y axis, 2 to the X axis
+# Calibration done on Sat Aug  8 13:54:41 2026
+poni_version: 2.1
+Detector: Dexela2923
+Detector_config: {"pixel1": 7.5e-05, "pixel2": 7.5e-05, "orientation": 3}
+Distance: 0.6009374656914199
+Poni1: 0.1407568704492382
+Poni2: 0.09918785765177503
+Rot1: -0.024020258426955595
+Rot2: 0.0073341052200752675
+Rot3: 0.0
+Wavelength: 1.799e-11
+# Calibrant: LaB6_SRM660c
+# Image: fabio:///nsls2/auto-storage/xpd-new/proposals/2026-2/pass-317897/cleandata/RTE-5468/part1-nonrad-samples/20260731-163619_9A3172_count_LaB6.tiff
